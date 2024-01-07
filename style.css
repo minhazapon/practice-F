@@ -1,0 +1,77 @@
+.fastp{
+
+      color: azure;
+      text-align: right;
+     
+      margin-right: 80px;
+      padding: 100px;
+      font-size: large;
+      font-weight: bold;
+     
+
+}
+
+.h{
+      height: 700px;
+      background-image: url(images/banner/banner3.png);
+      background-size: cover;
+      
+
+
+}
+
+.main{
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+
+
+
+}
+
+.main{
+          display: flex;
+          gap: 50px;
+          justify-content: center;
+          text-align: center;
+          text-align: justify;
+          align-items: center;
+           
+         
+
+
+
+
+}
+
+.mp{
+    text-align: center;
+     
+
+
+}
+
+.my{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+
+}
+
+.foot{
+       margin-top: 100px;
+
+}
+
+.future{
+         display: flex;
+         justify-content: center;
+         gap: 300px;
+         background-color: lightseagreen;
+         
+         
+
+
+
+}
